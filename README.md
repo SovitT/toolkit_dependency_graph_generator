@@ -1,4 +1,4 @@
-# build a tool dependency graph generator (60-120 mins)
+# build a tool dependency graph generator
 
 we care about the quality and structure of the dependency relationships you discover
 
